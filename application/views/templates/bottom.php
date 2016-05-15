@@ -1,0 +1,1 @@
+@<?php echo '&nbsp;'.date('Y').'&nbsp;Thiết kế bởi&nbsp;<a href="'.BASE_URL.'">'.TITLE_URL.'</a>'; ?>&nbsp;-&nbsp;Nhận làm dự án website&nbsp;-&nbsp;Nhận dạy lập trình website

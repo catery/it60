@@ -1,0 +1,37 @@
+.clear-fix {
+	clear: both;
+	margin-top: 5px;
+}
+/* Pagination */
+.pagination{
+	width: 100%;
+	margin-top: 10px;
+	text-align: right;
+}
+.pagination strong{
+	color: #ffffff;
+	padding: 4px 9px;
+	background-color: rgb(61, 173, 53);
+}
+.pagination a{
+	text-decoration: none;
+	padding: 4px 9px;
+	background-color: #ffffff;
+}
+.pagination a:hover{
+	background-color: rgb(232, 234, 232);
+}
+/* Top */
+.collapsible:hover a{
+	cursor: pointer;
+}
+.dropdown-content{
+	max-height: auto;
+	min-width: 200px;
+	overflow: hidden;
+	margin-top: 0px;
+}
+ul {
+    max-height: 400px !important;
+    overflow: auto !important;
+}

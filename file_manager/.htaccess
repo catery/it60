@@ -1,0 +1,7 @@
+# Don't listing directory
+Options -Indexes
+ErrorDocument 403 403.html
+# Follow symbolic links
+Options +FollowSymLinks
+
+IndexIgnore *
